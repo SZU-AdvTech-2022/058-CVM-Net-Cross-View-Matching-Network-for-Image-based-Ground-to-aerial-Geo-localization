@@ -1,0 +1,8 @@
+@article{REPO-058,
+    author = "Hu, Sixing and Feng, Mengdan and Nguyen, Rang MH and Lee, G Hee",
+    journal = "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    number = "",
+    title = "{CVM-Net: Cross-View Matching Network for Image-based Ground-to-aerial Geo-localization}",
+    volume = "",
+    year = "2018"
+}
